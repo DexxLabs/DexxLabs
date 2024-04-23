@@ -73,6 +73,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DexxLabs/DexxLabs/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DexxLabs/DexxLabs/snake.yml" alt="Snake animation" />
 
 ###
